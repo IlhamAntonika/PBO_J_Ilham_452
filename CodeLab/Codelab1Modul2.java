@@ -1,4 +1,4 @@
-public class Codelab1 {
+public class Codelab1Modul2 {
     public static void main(String[] args) {
         Hewan hewan1 = new Hewan("Kucing", "Mamalia", "Nyann~~");
         Hewan hewan2 = new Hewan("Anjing", "Mamalia", "Woof-Woof!!");
