@@ -1,4 +1,4 @@
-public class Codelab2 {
+public class Codelab2Modul2 {
     public static void main(String[] args) {
 
         RekeningBank rekening1 = new RekeningBank("202410370110452", "Ilham Antonika Wijaya", 500000.0);
